@@ -1,0 +1,16 @@
+.container {
+	display: inline-block;
+	background-color: var(--text-primary);
+	color: #fff;
+	text-align: center;
+	padding: 15px 93px;
+	vertical-align: middle;
+	border-radius: var(--border-radius);
+	font-weight: 700;
+	min-height: 30px;
+}
+
+.small {
+	font-size: 0.75rem;
+	padding: 12px 28px;
+}
